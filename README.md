@@ -1,12 +1,18 @@
 **Masilo Ronald Ramoshaba**
+
 Software Developer | Web Application Developer | Mobile Application Developer | Full-Stack Developer | Tech Innovator
 
 "Building solutions that make a difference — one line of code at a time."
 
-Bloemfontein, South Africa
-ronaldm.ramoshaba@gmail.com
-LinkedIn: www.linkedin.com/in/masilo-ronald-ramoshaba
-GitHub: [https://github.com/ronald-craig]
+
+**Location:** Bloemfontein, South Africa
+
+**Email:** ronaldm.ramoshaba@gmail.com
+
+**LinkedIn:** www.linkedin.com/in/masilo-ronald-ramoshaba
+
+**GitHub:** [https://github.com/ronald-craig]
+
 
 **About Me**
 I’m a passionate developer who loves turning ideas into reality through clean, scalable, and thoughtful code. Whether it's a sleek mobile app, a robust web system, or an engaging game, I focus on building solutions that are not just functional — but also meaningful and user-friendly.
